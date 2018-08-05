@@ -1,14 +1,14 @@
 {
-    "XV de Arica y Parinacota":{
-        "comunas":[
+    "XV de Arica y Parinacota": {
+        "comunas": [
             "Arica",
             "Camarones",
             "General Lagos",
             "Putre"
         ]
     },
-    "I de Tarapacá":{
-        "comunas":[
+    "I de Tarapacá": {
+        "comunas": [
             "Alto Hospicio",
             "Camiña",
             "Colchane",
@@ -18,8 +18,8 @@
             "Pozo Almonte"
         ]
     },
-    "II de Antofagasta":{
-        "comunas":[
+    "II de Antofagasta": {
+        "comunas": [
             "Antofagasta",
             "Calama",
             "María Elena",
@@ -31,8 +31,8 @@
             "Tocopilla"
         ]
     },
-    "III de Atacama":{
-        "comunas":[
+    "III de Atacama": {
+        "comunas": [
             "Alto del Carmen",
             "Caldera",
             "Chañaral",
@@ -44,8 +44,8 @@
             "Vallenar"
         ]
     },
-    "IV de Coquimbo":{
-        "comunas":[
+    "IV de Coquimbo": {
+        "comunas": [
             "Andacollo",
             "Canela",
             "Combarbalá",
@@ -56,15 +56,15 @@
             "Los Vilos",
             "Monte Patria",
             "Ovalle",
-            "Paiguano",
+            "Paihuano",
             "Punitaqui",
             "Río Hurtado",
             "Salamanca",
             "Vicuña"
         ]
     },
-    "V de Valparaíso":{
-        "comunas":[
+    "V de Valparaíso": {
+        "comunas": [
             "Algarrobo",
             "Cabildo",
             "Calle Larga",
@@ -105,8 +105,8 @@
             "Zapallar"
         ]
     },
-    "VI del Libertador General Bernardo O'Higgins":{
-        "comunas":[
+    "VI del Libertador General Bernardo O'Higgins": {
+        "comunas": [
             "Chépica",
             "Chimbarongo",
             "Codegua",
@@ -142,8 +142,8 @@
             "Santa Cruz"
         ]
     },
-    "VII del Maule":{
-        "comunas":[
+    "VII del Maule": {
+        "comunas": [
             "Cauquenes",
             "Chanco",
             "Colbún",
@@ -176,8 +176,8 @@
             "Yerbas Buenas"
         ]
     },
-    "VIII del Bío Bío":{
-        "comunas":[
+    "VIII del Bío Bío": {
+        "comunas": [
             "Alto Biobío",
             "Antuco",
             "Arauco",
@@ -234,8 +234,8 @@
             "Yungay"
         ]
     },
-    "IX de la Araucanía":{
-        "comunas":[
+    "IX de la Araucanía": {
+        "comunas": [
             "Angol",
             "Carahue",
             "Cholchol",
@@ -270,8 +270,8 @@
             "Villarrica"
         ]
     },
-    "XIV de los Ríos":{
-        "comunas":[
+    "XIV de los Ríos": {
+        "comunas": [
             "Corral",
             "Futrono",
             "La Unión",
@@ -286,8 +286,8 @@
             "Valdivia"
         ]
     },
-    "X de los Lagos":{
-        "comunas":[
+    "X de los Lagos": {
+        "comunas": [
             "Ancud",
             "Calbuco",
             "Castro",
@@ -320,8 +320,8 @@
             "San Pablo"
         ]
     },
-    "XI Aysén del General Carlos Ibáñez del Campo":{
-        "comunas":[
+    "XI Aysén del General Carlos Ibáñez del Campo": {
+        "comunas": [
             "Aisén",
             "Chile Chico",
             "Cisnes",
@@ -334,8 +334,8 @@
             "O’Higgins"
         ]
     },
-    "XII de Magallanes y Antártica Chilena":{
-        "comunas":[
+    "XII de Magallanes y Antártica Chilena": {
+        "comunas": [
             "Antártica",
             "Cabo de Hornos (Ex Navarino)",
             "Laguna Blanca",
@@ -349,8 +349,8 @@
             "Torres del Paine"
         ]
     },
-    "Metropolitana de Santiago":{
-        "comunas":[
+    "Metropolitana de Santiago": {
+        "comunas": [
             "Alhué",
             "Buin",
             "Calera de Tango",
@@ -401,7 +401,7 @@
             "San Ramón",
             "Santiago Centro",
             "Talagante",
-            "Tiltil",
+            "Til Til",
             "Vitacura"
         ]
     }
